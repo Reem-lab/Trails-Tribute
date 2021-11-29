@@ -14,15 +14,18 @@ body {
 #title {
   text-align: center;
 }
+
 #main p {
   text-align: center;
   font-size: 14px;
   margin: 0 auto;
 }
-#tribute-info P {
+
+#tribute-info p {
   font-size: 2rem;
   margin-bottom: 20px;
 }
+
 #tribute-info ul {
   margin: 20px 0;
 }
