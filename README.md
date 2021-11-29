@@ -6,7 +6,7 @@
 > A simple tribute page for a doctor Dr. Norman Borlaug
 The man who saved a billion lives.
 
-![screenshot](images/app_screenshot.png)
+![screenshot](app_screenshot.png)
 
 *A Screenshot of the Mobile Version of the Portfolio App*
 
